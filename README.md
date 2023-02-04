@@ -3,7 +3,4 @@ Kacper is a passionate software engineer with knowledge across variety stacks fr
 
 ## Tech Stack
 
-TypeScript / React / Next.js / Gatsby / Redux Toolkit / Redux Saga / Apollo / Styled Components
-Node.js / NestJS / PostgreSQL / TypeORM / GraphQL / JWT / Jest / Docker / GH Actions
-AWS [ Lambda, CloudFormation, S3, API Gateway, RDS, EventBridge, AppSync, CodePipeline ]
-Ethereum / Solidity / Hardhat / Ethers / Web3 / TheGraph / OpenZepplin
+TypeScript / React / Next.js / Gatsby / Redux Toolkit / Redux Saga / Apollo / Styled Components / Node.js / NestJS / PostgreSQL / TypeORM / GraphQL / JWT / Jest / Docker / GH Actions / AWS [ Lambda, CloudFormation, S3, API Gateway, RDS, EventBridge, AppSync, CodePipeline ] / Ethereum / Solidity / Hardhat / Ethers / Web3 / TheGraph / OpenZepplin
